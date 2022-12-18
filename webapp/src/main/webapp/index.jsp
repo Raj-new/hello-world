@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to DevOps CI CD Demo</h1>
+    <h1>Welcome to HPE DevOps CI CD Demo</h1>
     <hr>
      
     <label for="Name"><b>Enter First Name</b></label>
