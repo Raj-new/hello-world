@@ -21,7 +21,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
-   <h1> Thank you, Happy Learning </h1>
+   <h1> Thank you, Happy Holidays!!! </h1>
 
 
 </form>
